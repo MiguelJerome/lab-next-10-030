@@ -1,0 +1,22 @@
+.produit {
+    padding: 1rem;
+    margin: 0 1rem;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.header:hover {
+    text-decoration: underline;
+}
+
+.produit a {
+    color: #000;
+}

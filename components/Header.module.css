@@ -1,0 +1,14 @@
+.header {
+    padding: 1rem;
+    border-top: 5px solid #352f28;
+    background-color: #f5eecd;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+    color: #000;
+    text-decoration: none;
+}

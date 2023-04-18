@@ -1,0 +1,38 @@
+[
+    {
+        "slug": "epee-cuivre",
+        "nom": "Épée en cuivre",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/epee.png"
+    },
+    {
+        "slug": "botte-combat",
+        "nom": "Botte de combat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/bottes.png"
+    },
+    {
+        "slug": "bouclier-fer",
+        "nom": "Bouclier de fer",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/bouclier.png"
+    },
+    {
+        "slug": "arc-simple",
+        "nom": "Arc à flèche simple",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/arc.png"
+    },
+    {
+        "slug": "plume-phenix",
+        "nom": "Plume du phénix",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/plume.png"
+    },
+    {
+        "slug": "potion-energie",
+        "nom": "Potion d'énergie",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus suscipit odit fugit corrupti possimus doloremque harum. Nesciunt modi placeat hic, rerum similique quae minus! Perferendis vel in odit quis sit?",
+        "image": "/img/produits/potion.png"
+    }
+]
